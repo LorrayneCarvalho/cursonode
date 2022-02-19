@@ -1,0 +1,31 @@
+{
+  "name": "cursonode",
+  "version": "1.0.0",
+  "description": "Repósitorio do Curso de NodeJS da HCode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LorrayneCarvalho/cursonode.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Lorrayne Carvalho através do Curso Ministrado pelo Glaúcio Daniel, da escola de treinamentos HCode.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LorrayneCarvalho/cursonode/issues"
+  },
+  "homepage": "https://github.com/LorrayneCarvalho/cursonode#readme"
+}
